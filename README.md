@@ -1,8 +1,7 @@
  ## Hi 👋 I'm Lbar Sidati
 
-  <p>I'm a passionate application developer with a solid foundation in Flutter. 📱</p>
-  <p>This is my GitHub profile where I share some of my projects. If you're interested in Flutter or app development, you've come to the right place!</p>
-</div>
+<strong style="font-size: 4.5em; vertical-align: middle;">I'm a passionate application developer with a solid foundation in Flutter. 📱</strong>
+<strong style="font-size: 3.5em; vertical-align: middle;">This is my GitHub profile where I share some of my projects. If you're interested in Flutter or app development, you've come to the right place! 📱</strong>
 
 
 
