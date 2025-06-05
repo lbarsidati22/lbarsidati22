@@ -5,7 +5,14 @@
 
 <strong style="font-size: 3.5em; vertical-align: middle;">This is my GitHub profile where I share some of my projects. If you're interested in Flutter or app development, you've come to the right place! 📱</strong>
 
+## 📧 Get in Touch!
 
+* **Email:** Lbarsidati2000@gmail.com
+* **LinkedIn:** [https://www.linkedin.com/in/lbar-sidati-9225a4321/)
+* **FaceBook:** [https://www.facebook.com/lbarsidaty/)
+* **Portfolio/Website:** [Soon .....)
+
+---
 
 ## 🛠️ Technologies & Tools I Use
 
@@ -29,14 +36,7 @@
 
 ---
 
-## 📧 Get in Touch!
 
-* **Email:** Lbarsidati@2000@gmail.com
-* **LinkedIn:** [https://www.linkedin.com/in/lbar-sidati-9225a4321/)
-* **FaceBook:** [https://www.facebook.com/lbarsidaty/)
-* **Portfolio/Website:** [Soon .....)
-
----
 
 ## ✨ Let's Connect & Code!
 
