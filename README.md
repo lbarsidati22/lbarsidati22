@@ -32,4 +32,4 @@ you've come to the right place! </strong>
 ## ✨ Let's Connect & Code!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZtYXZ1ZzhmN2JsZ20yZzJudmdhOG82eG9lemt3enpxMHJvN2xvZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E89xxATM4iZoPdr6Tb/giphy.gif" alt="Binary Code" width="800"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZtYXZ1ZzhmN2JsZ20yZzJudmdhOG82eG9lemt3enpxMHJvN2xvZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E89xxATM4iZoPdr6Tb/giphy.gif" alt="Binary Code" width="870"/>
