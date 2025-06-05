@@ -27,18 +27,7 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LbarSidati&show_icons=true&theme=radical&hide_border=true" alt="LbarSidati's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LbarSidati&theme=dark&hide_border=true" alt="LbarSidati's Streak Stats" />
-</div>
-
----
-
-
-
 ## ✨ Let's Connect & Code!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZtYXZ1ZzhmN2JsZ20yZzJudmdhOG82eG9lemt3enpxMHJvN2xvZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E89xxATM4iZoPdr6Tb/giphy.gif" alt="Binary Code" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZtYXZ1ZzhmN2JsZ20yZzJudmdhOG82eG9lemt3enpxMHJvN2xvZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E89xxATM4iZoPdr6Tb/giphy.gif" alt="Binary Code" width="800"/>
