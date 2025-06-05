@@ -41,9 +41,4 @@
 ## ✨ Let's Connect & Code!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI1OHZ5bmx4YjRjcjZnb21kNzQ3d25wZm14aDNrdDczMW1kYjZpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgM4j7uJ69Kx7cQ8Sj/giphy.gif" alt="Binary Code" width="500"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p1NnY5N2J0YzV1YjV3bHk5Zml6Nnl5MzdvZjA5b3N6MWUwaG50MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFLhP9K9Q3v24t1G1N/giphy.gif" alt="Hacker Cat" width="500"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVjOGZ4eDk5c292ZDNnbGZ3dG5nZ3M3Zmt5bmV5cW51eWVsOWE1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTglO32XJzTf16S0tq/giphy.gif" alt="Developer" width="500"/>
-</div>
-
----
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZtYXZ1ZzhmN2JsZ20yZzJudmdhOG82eG9lemt3enpxMHJvN2xvZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E89xxATM4iZoPdr6Tb/giphy.gif" alt="Binary Code" width="500"/>
