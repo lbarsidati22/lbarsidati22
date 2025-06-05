@@ -1,16 +1,12 @@
 <div align="center">
-  <span style="font-size: 8.5em; font-weight: bold; vertical-align:middle;">Hi 👋 I'm Lbar Sidati </span>
+  <strong style="font-size: 3.5em; vertical-align: middle;">Hi 👋 I'm Lbar Sidati</strong>
 
-  <h3>@LbarSidati</h3>
+## 🚀 About Me
+
   <p>I'm a passionate application developer with a solid foundation in Flutter. 📱</p>
   <p>This is my GitHub profile where I share some of my projects. If you're interested in Flutter or app development, you've come to the right place!</p>
 </div>
 
----
-
-## 🚀 About Me
-
----
 
 
 ## 🛠️ Technologies & Tools I Use
