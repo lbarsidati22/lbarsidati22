@@ -70,7 +70,7 @@ Seeking a challenging role to leverage project experience and thrive within a fa
 
 ---
 
-## 📊 GitHub Stats
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lbarsidati22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0fff&title_color=44D1FD&icon_color=FFD700" alt="GitHub Stats" />
@@ -84,10 +84,3 @@ Seeking a challenging role to leverage project experience and thrive within a fa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbarsidati22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=44D1FD" alt="Top Languages" />
 </div>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKyiqxKTt3W/giphy.gif" width="200" alt="Coding Cat" />
-  <br>
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
