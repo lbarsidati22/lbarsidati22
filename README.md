@@ -12,7 +12,9 @@
 
 ## 👨‍💻 About Me
 
-I am a **Flutter developer** with **1+ year of hands‑on experience** building scalable, performant mobile applications. I enjoy designing maintainable architectures, optimising app performance, and crafting delightful user experiences that advance business goals.
+**Results-driven Flutter Developer**  skilled in Clean Architecture, Bloc/Cubit, Firebase, Solid, and CI/CD. Proven ability to build scalable, high-performance mobile applications with a strong focus on user experience and maintainable code.
+
+Seeking a challenging role to leverage project experience and thrive within a fast-paced development environment.
 
 ---
 
@@ -44,17 +46,14 @@ I am a **Flutter developer** with **1+ year of hands‑on experience** building 
     <td align="center">
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" /><br>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /><br>
-      <img src="https://img.shields.io/badge/Hive-FF6F00?style=flat-square&logo=hive&logoColor=white" alt="Hive" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Bloc%2FCubit-1E1E1E?style=flat-square" alt="Bloc" /><br>
-      <img src="https://img.shields.io/badge/Riverpod-2D3748?style=flat-square" alt="Riverpod" /><br>
       <img src="https://img.shields.io/badge/Clean%20Arch-000000?style=flat-square" alt="Clean Arch" /><br>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /><br>
       <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" alt="Adobe XD" /><br>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="Actions" />
     </td>
   </tr>
 </table>
