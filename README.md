@@ -69,18 +69,3 @@ Seeking a challenging role to leverage project experience and thrive within a fa
 </p>
 
 ---
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lbarsidati22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0fff&title_color=44D1FD&icon_color=FFD700" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lbarsidati22&theme=tokyonight&hide_border=true&background=0D1117&currStreakLabel=44D1FD" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbarsidati22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=44D1FD" alt="Top Languages" />
-</div>
-
