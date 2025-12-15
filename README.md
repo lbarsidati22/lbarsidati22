@@ -21,19 +21,27 @@
 
 ## 👨‍💻 About Me
 
-**Passionate Flutter Developer**  with a love for creating beautiful, immersive mobile experiences. I am dedicated to continuous growth, always aiming to enhance application performance and code quality. I thrive on building visually engaging interfaces that delight users.
-
-
----
-
-## 🔭 Current Focus
-
-**Flutter Development Trainee @ Elevate Tech (2025‑Present)**
-
-*   🔗 **Integrating RESTful APIs** with `Dio` & `Retrofit`
-*   🧱 Implementing **Bloc/Cubit** state management
-*   ⚙️ Automating releases via **GitHub Actions**
-*   🧪 Writing **Unit & UI Tests** for robustness
+```dart
+class LbarSidati extends FlutterDeveloper {
+  /// 🔭 Current Position
+  final String role = "Flutter Development Trainee @ Elevate Tech";
+  
+  /// 🚀 Passion & Goals
+  @override
+  String get mission => "Passionate Flutter Developer with a love for creating "
+                        "beautiful, immersive mobile experiences. Dedicated to "
+                        "continuous growth and high-quality code.";
+  
+  /// 🔭 Currently working on
+  @override
+  List<String> get currentFocus => [
+    "🔗 Integrating RESTful APIs with Dio & Retrofit",
+    "🧱 Implementing Bloc/Cubit state management",
+    "⚙️ Automating releases via GitHub Actions",
+    "🧪 Writing Unit & UI Tests for robustness"
+  ];
+}
+```
 
 ---
 
