@@ -23,7 +23,6 @@
 
 **Passionate Flutter Developer**  with a love for creating beautiful, immersive mobile experiences. I am dedicated to continuous growth, always aiming to enhance application performance and code quality. I thrive on building visually engaging interfaces that delight users.
 
-Seeking a challenging role to leverage project experience and thrive within a fast-paced development environment.
 
 ---
 
