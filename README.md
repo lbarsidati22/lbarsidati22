@@ -22,8 +22,10 @@
 ## 👨‍💻 About Me
 
 ```dart
-class LbarSidati extends FlutterDeveloper {
+class ElbarSidaty extends FlutterDeveloper {
   /// 🔭 Current Position
+  final String location = "Nouakchott , Mauritania";
+
   final String role = "Flutter Development Trainee @ Elevate Tech";
   
   /// 🚀 Passion & Goals
