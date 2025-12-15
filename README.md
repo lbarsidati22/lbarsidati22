@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-**Results-driven Flutter Developer**  skilled in Clean Architecture, Bloc/Cubit, Firebase, Solid, and CI/CD. Proven ability to build scalable, high-performance mobile applications with a strong focus on user experience and maintainable code.
+**Passionate Flutter Developer**  with a love for creating beautiful, immersive mobile experiences. I am dedicated to continuous growth, always aiming to enhance application performance and code quality. I thrive on building visually engaging interfaces that delight users.
 
 Seeking a challenging role to leverage project experience and thrive within a fast-paced development environment.
 
