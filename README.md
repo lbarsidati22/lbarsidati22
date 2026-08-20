@@ -26,7 +26,7 @@ class ElbarSidaty extends FlutterDeveloper {
   /// 🔭 Current Position
   final String location = "Nouakchott , Mauritania";
 
-  final String role = "Flutter Development Trainee @ Elevate Tech";
+  final String role = "Mobile Application Developer | MITC";
   
   /// 🚀 Passion & Goals
   @override
